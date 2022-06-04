@@ -6,3 +6,5 @@
 <p>Code (STM32F projects): MIT license.</p>
 <p>Hardware: cc-by-sa-3.0</p>
 <p>unless otherwise specified</p>
+<h2>Projects</h2>
+<h3><a href="https://github.com/mzuelch/CATs-Desktopsynth/tree/main/Projects/Minidexed">MiniClumsyDexed</a></h3>
