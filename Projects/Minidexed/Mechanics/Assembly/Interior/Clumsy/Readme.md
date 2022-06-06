@@ -1,4 +1,4 @@
-<h1>Special Assembly ClumsyMIDI</h1>
+<h1>Preparation of the clumsyMIDI module</h1>
 <a href="../../Readme.md">Back</a>
 <table>
 	<thead>
