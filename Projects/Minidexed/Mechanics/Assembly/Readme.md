@@ -8,24 +8,30 @@
 	<li>4x Nut M2.5</li>
 </ul>
 <table>
-	<tr>
-		<th>Step</th>
-		<th>Picture</th>
-		<th>Special Instruction</th>
-	</tr>
-	<tr>
-		<td>001</td>
-		<td><img src="./Case/MiniDeXed Case_001.jpg" width="300"></td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>002</td>
-		<td><img src="./Case/MiniDeXed Case_002.jpg" width="300"></td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>003</td>
-		<td><img src="./Case/MiniDeXed Case_003.jpg" width="300"></td>
-		<td></td>
-	</tr>
+	<thead>
+		<tr>
+			<th>Step</th>
+			<th colspan="2">Picture</th>
+			<th>Special Instruction</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>001</td>
+			<td colspan="2"><img src="./Case/MiniDeXed Case_001.jpg" width="300"></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>002</td>
+			<td><img src="./Case/MiniDeXed Case_002.jpg" width="300"></td>
+			<td><img src="./Case/MiniDeXed Case_003.jpg" width="300"></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>003</td>
+			<td><img src="./Case/MiniDeXed Case_004.jpg" width="300"></td>
+			<td><img src="./Case/MiniDeXed Case_005.jpg" width="300"></td>
+			<td></td>
+		</tr>
+	</tbody
 </table>
