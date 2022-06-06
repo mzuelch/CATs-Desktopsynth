@@ -16,6 +16,7 @@ sym-lib-table
 *.SLDPRT
 *.SLDASM
 *.SLDDRW
+*.smg
 
 # LTSpice Output #
 ##################

@@ -7,6 +7,7 @@
 <ul>
 	<li>4x Nut M2.5</li>
 </ul>
+<h3>Assembly</h3>
 <table>
 	<thead>
 		<tr>
