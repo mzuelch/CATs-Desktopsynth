@@ -18,7 +18,7 @@
 	<tbody>
 		<tr>
 			<td>001</td>
-			<td colspan="2"><img src="./Case/MiniDeXed Case_001.jpg" width="300"></td>
+			<td colspan="2" text-align="center"><img src="./Case/MiniDeXed Case_001.jpg" width="300"></td>
 			<td></td>
 		</tr>
 		<tr>
@@ -49,6 +49,12 @@
 			<td>006</td>
 			<td><img src="./Case/MiniDeXed Case_010.jpg" width="300"></td>
 			<td><img src="./Case/MiniDeXed Case_011.jpg" width="300"></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>007</td>
+			<td><img src="./Case/MiniDeXed Case_012.jpg" width="300"></td>
+			<td><img src="./Case/MiniDeXed Case_013.jpg" width="300"></td>
 			<td></td>
 		</tr>
 	</tbody>
