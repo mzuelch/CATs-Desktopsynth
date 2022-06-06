@@ -6,10 +6,10 @@
 <h4>Additional Parts</h4>
 <ul>
 	<li>4x Nut M2.5</li>
-	<li>4x Screw M2.5x6</li>
+	<li>12x Screw M2.5x6</li>
 	<li>4x Screw M2.5x12</li>
-	<li>8x Standoff M2.5x6</li>
-	<li>7x Standoff M2.5x12</li>
+	<li>8x Standoff M2.5x6 female/female</li>
+	<li>7x Standoff M2.5x12 male/female</li>
 	<li>Washers M2.5 for adjustments</li>	
 </ul>
 <h3>Assembly</h3>

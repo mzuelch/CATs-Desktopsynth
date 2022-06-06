@@ -28,41 +28,41 @@
 			<td></td>
 		</tr>
 		<tr>
-			<td>004/td>
+			<td>004</td>
 			<td><img src="./MiniDeXed Full_007.jpg" width="300"></td>
 			<td><img src="./MiniDeXed Full_008.jpg" width="300"></td>
 			<td></td>
 		</tr>
 		<tr>
-			<td>005/td>
+			<td>005</td>
 			<td colspan="2"><img src="./MiniDeXed Full_009.jpg" width="300"></td>
 			<td></td>
 		</tr>
 		<tr>
-			<td>006/td>
+			<td>006</td>
 			<td><img src="./MiniDeXed Full_010.jpg" width="300"></td>
 			<td><img src="./MiniDeXed Full_011.jpg" width="300"></td>
 			<td></td>
 		</tr>
 		<tr>
-			<td>007/td>
+			<td>007</td>
 			<td><img src="./MiniDeXed Full_012.jpg" width="300"></td>
 			<td><img src="./MiniDeXed Full_013.jpg" width="300"></td>
 			<td></td>
 		</tr>
 		<tr>
-			<td>008/td>
+			<td>008</td>
 			<td><img src="./MiniDeXed Full_014.jpg" width="300"></td>
 			<td><img src="./MiniDeXed Full_015.jpg" width="300"></td>
 			<td></td>
 		</tr>
 		<tr>
-			<td>009/td>
+			<td>009</td>
 			<td colspan="2"><img src="./MiniDeXed Full_016.jpg" width="300"></td>
 			<td></td>
 		</tr>
 		<tr>
-			<td>010/td>
+			<td>010</td>
 			<td><img src="./MiniDeXed Full_017.jpg" width="300"></td>
 			<td><img src="./MiniDeXed Full_018.jpg" width="300"></td>
 			<td></td>
