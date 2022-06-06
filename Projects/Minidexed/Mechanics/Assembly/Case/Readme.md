@@ -1,5 +1,5 @@
 <h1>Assembly of the case</h1>
-<a href="../../Readme.md">Back</a>
+<a href="../Readme.md">Back</a>
 <table>
 	<thead>
 		<tr>
