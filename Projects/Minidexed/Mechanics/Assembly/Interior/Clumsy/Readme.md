@@ -45,7 +45,7 @@
 			<td>007</td>
 			<td colspan="2" text-align="center"><img src="./MiniDeXed Interior Clumsy_010.jpg" width="300"></td>
 			<td>
-				<p>Solder wires to the audio out pins of the PCM and coinnect them to the audio jack:</p>
+				<p>Solder wires to the audio out pins of the PCM and connect them to the audio jack:</p>
 				<ul>
 					<li>Left   - 'L' - White - Tip</li>
 					<li>Ground - 'G' - Black - Sleeve</li>

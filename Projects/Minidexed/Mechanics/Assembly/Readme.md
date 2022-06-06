@@ -8,6 +8,13 @@
 	<li>4x Nut M2.5</li>
 </ul>
 <h3>Assembly</h3>
+<ul>
+	<li><a href="./Interior/Clumsy/Readme.md">Preparation of the clumsyMIDI module</a></li>
+	<li><a href="./Case/Readme.md">Assembly of the case</a></li>
+	<li><a href="./Case/Readme.md">Assembly of the case</a></li>
+	<li><a href="./Full/Readme.md">Final Assembly</a></li>
+</ul>
+
 <table>
 	<thead>
 		<tr>
